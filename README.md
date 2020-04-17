@@ -1,4 +1,4 @@
-# W266_Final_Project_Sentence Encoding Pre-screening for Q%A
+# W266_Final_Project_Sentence Encoding Pre-screening for Q&A
 
 We propose a conceptual design, Sentence Embedding Prescreening (SEP), to be used in conjunction with any word token based Q&A models to improve the overall efficiency and reduce hardware constrains. Our concept of the light add-on model, SEP, aims to identify the particular sentence that contains the answer, in order to significantly reduce the amount of the input to the subsequent BERT based models. 
 
