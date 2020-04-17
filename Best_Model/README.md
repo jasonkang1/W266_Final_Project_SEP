@@ -8,7 +8,8 @@ Here we present our best performing Sentence Encoding Prescreening Model which h
   Alternatively can be downloaded from: https://drive.google.com/drive/folders/1j68dhap83IXSWwyPH57a2A4ftyyp4tHs?usp=sharing
   
 - Data preparation tool: P4 preprocessor.ipynb
-  The prepared dataframe can be downloaded from: https://drive.google.com/drive/folders/1ljBOBJ4Yz-AYuE8ZWN-9_Ro7WP1TeJUh?usp=sharing
+
+  Alternatively, the prepared dataframe can be downloaded from: https://drive.google.com/drive/folders/1ljBOBJ4Yz-AYuE8ZWN-9_Ro7WP1TeJUh?usp=sharing
   
 - Model script: Prototype 4 -- Universal Large + Beam2.ipynb 
   The trained model can be loaded from: https://drive.google.com/drive/folders/1ZKiaIqYLY1YJLTIldmOI3wtTkYBWRPif?usp=sharing
