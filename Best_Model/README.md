@@ -18,9 +18,11 @@ Here we present our best performing Sentence Encoding Prescreening Model which h
   
 ## Instructions:
  (1) Download the dataset and use the Data preparation tool to prepare the training and dev dataframe
+     
      Alternatively, you can skip this step by using the prepared dataframe
      
  (2) Dowanload the pre-trained model and run it on Model script
+     
      Alternatively, you can train the model yourself
   
  * Please note to change the file path to your downloaded path.
