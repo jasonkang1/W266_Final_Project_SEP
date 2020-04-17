@@ -9,5 +9,5 @@ It should be noted that during our subsequent research, we realized that a simil
 
 We developed 4 different prototypes and conducted 4 more additional trials based on best performing model in order to prove this conecept.
 
-- We present the Best performing model in this Git Repo
+- We present the best performing model in this Git Repo
 - Other models and trials can be found at https://drive.google.com/drive/folders/1DgozEWeXoIO6mXVy1dAHqSf3r8UOnAOD?usp=sharing
