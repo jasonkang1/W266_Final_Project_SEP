@@ -3,7 +3,7 @@
 ### Team Member:  Jason Kang, Sonal Thakkar
 ### Organization: UC Berkeley
 
-We propose a conceptual design, Sentence Embedding Prescreening (SEP), to be used in conjunction with any word token based Q&A models to improve the overall efficiency and reduce hardware constrains. Our concept of the light add-on model, SEP, aims to identify the particular sentence that contains the answer, in order to significantly reduce the amount of the input to the subsequent BERT based models. 
+We propose a conceptual design, Sentence Embedding Prescreening (SEP), to be used in conjunction with any word token based Q&A models to improve the overall efficiency and reduce hardware constrains. Our concept of the light add-on model, SEP, aims to identify the particular sentence that contains the answer, in order to significantly reduce the amount of the input to the subsequent token based models, such as BERT. 
 
 It should be noted that during our subsequent research, we realized that a similar model was presented in paper “Efficient and Robust Question Answering from Minimal Context over Documents”. However, it has a very different focus and adopts a totally different architecture.
 
